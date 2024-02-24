@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<demo>
+	<home>
+		<txtName>user-name</txtName>
+		<txtPass>password</txtPass>
+		<btnLogin>login-button</btnLogin>
+	</home>		
+	<inside>
+		<iconMenu>react-burger-menu-btn</iconMenu>
+		<lnkAbout>about_sidebar_link</lnkAbout>
+	</inside>	
+</demo>
